@@ -8,7 +8,7 @@ Pude lograr con JavaScript que este formulario no pueda ser enviado si los campo
 
 Caputura del diseño:
 
-<img src="https://github.com/lautaronahuelc/calculadora/blob/master/captura-resultado-final.png"/>
+<img src="https://github.com/lautaronahuelc/contact-card/blob/master/resultado-final.jpg"/>gi
 
 [Ver proyecto en línea](https://violet-contact-card.netlify.app/)
 
